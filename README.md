@@ -3,11 +3,10 @@
 I'm a developer, designer, and builder who enjoys creating software, hardware projects, and web tools.
 
 ## Procedural Planet Generator
+
 https://github.com/rowangriffin86-arch/Procedual2dPlanets
 
-![Planet Preview](image.png)
-
-<video src="video.mp4" controls width="100%"></video>
+[![Planet Preview](image.png)](video.mp4)
 
 ## What I'm Working On
 
