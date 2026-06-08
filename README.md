@@ -5,6 +5,10 @@ I'm a developer, designer, and builder who enjoys creating software, hardware pr
 ## Procedural Planet Generator
 https://github.com/rowangriffin86-arch/Procedual2dPlanets
 
+![Planet Preview](image.png)
+
+<video src="video.mp4" controls width="100%"></video>
+
 ## What I'm Working On
 
 * Full-stack web applications
@@ -32,4 +36,3 @@ A collection of web-based utilities built to solve everyday problems quickly and
 ## Contact
 
 Feel free to explore my repositories and follow my progress as I continue building new projects.
-
