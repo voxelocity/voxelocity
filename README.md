@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Ewan
 
-<!--
-**voxelocity/voxelocity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer, designer, and builder who enjoys creating software, hardware projects, and web tools.
 
-Here are some ideas to get you started:
+## Procedural Planet Generator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+
+* Full-stack web applications
+* Desktop software
+* UI/UX design
+* Hardware and embedded projects
+
+## Featured Projects
+
+### Lintel
+
+A customizable desktop top bar designed to bring useful information and controls to your workflow.
+
+### Toolbox
+
+A collection of web-based utilities built to solve everyday problems quickly and efficiently.
+
+## Tech Stack
+
+* Java
+* JavaScript
+* HTML/CSS
+* Python
+
+## Contact
+
+Feel free to explore my repositories and follow my progress as I continue building new projects.
+
