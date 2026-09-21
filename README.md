@@ -39,6 +39,8 @@ A collection of web-based utilities built to solve everyday problems quickly and
 * JavaScript
 * HTML/CSS
 * Python
+* Swift
+* Lua
 
 ## Contact
 
