@@ -41,6 +41,8 @@ A collection of web-based utilities built to solve everyday problems quickly and
 * Python
 * Swift
 * Lua
+* C#
+* C++
 
 ## Contact
 
